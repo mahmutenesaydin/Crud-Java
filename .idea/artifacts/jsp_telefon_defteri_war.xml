@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jsp-telefon-defteri:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>jsp-telefon-defteri</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="jsp-telefon-defteri.war">
+      <element id="artifact" artifact-name="jsp-telefon-defteri:war exploded" />
+    </root>
+  </artifact>
+</component>
